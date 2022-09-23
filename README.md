@@ -5,8 +5,8 @@
 Estudante de ciência da computação pela UFOP.
 
 Aprendendo a solucionar problemas do mundo real com código.
----
 
+---
 ### 🛠 Linguagens e Ferramentas
 <img align="left" width="30px" style="padding-right=10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" width="30px" style="padding-right=10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
