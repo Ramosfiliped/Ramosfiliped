@@ -2,9 +2,8 @@
 
 **`Developer | Researcher`**
 
-Estudante de ciência da computação pela UFOP.
+Data Engineer and Data Scientist.
 
-Aprendendo a solucionar problemas do mundo real com código.
 
 ---
 ### 🛠 Linguagens e Ferramentas
