@@ -2,7 +2,7 @@
 
 **`Developer | Researcher`**
 
-Data Engineer and Data Scientist.
+## Software and Data Engineer
 
 
 ---
